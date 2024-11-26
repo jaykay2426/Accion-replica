@@ -160,7 +160,7 @@ main{
     position: fixed;
     margin-left: 40%;
     color: rgb(228, 135, 49);
-    font-size: 25px;
+    font-size: 35px;
 }
 
 .cta-button {
@@ -168,6 +168,7 @@ main{
     color: #fff;
     padding: 10px 20px;
     border-radius: 40px;
+    margin-left: 10px;
     text-decoration: none;
     font-weight: bold;
 }
@@ -408,6 +409,8 @@ footer {
 .partners img {
     animation: slideInFromLeft 1s ease-out forwards;
     opacity: 0;
+    width: 750px;
+    margin-top: 28px;
 }
 
 .footer-bottom {
